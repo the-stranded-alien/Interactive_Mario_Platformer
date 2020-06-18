@@ -1,0 +1,11 @@
+Concepts We Will Learn In This Game Are -
+
+1. Phaser
+2. Physics Engine [Jump, Bounce, Gravity, Speed]
+3. Keyboard Controls
+4. Animations
+5. Tweens
+6. Camera Controls
+7. Groups
+8. Collisions
+9. Overlap Function
